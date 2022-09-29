@@ -1,0 +1,56 @@
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There is a plane of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 0.0000e+00 ( 1.00000000, 0.00000000, 0.00000000)     0.00000000
+Molecule has the following symmetry elements: (sigma) 
+It seems to be the Cs point group

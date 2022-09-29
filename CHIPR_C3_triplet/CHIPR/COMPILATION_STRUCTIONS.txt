@@ -1,0 +1,1 @@
+gfortran C3_TRIPLET_CHIPR.f90 TEST_CHIPR.f

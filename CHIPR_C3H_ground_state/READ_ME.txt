@@ -1,0 +1,1 @@
+gfortran TEST_STAT_POINTS_HC3.f HC3_CHIPR.f

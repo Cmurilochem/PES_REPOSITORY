@@ -1,0 +1,2139 @@
+           1
+           2
+           3
+           4
+   2.44908506586893        4.93728746265104        7.38637252851997     
+ -0.704746531195042     
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           4 removed during initial mating stage
+           1 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           2 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for C2 axes
+          24 candidates examined
+          16 removed early
+           0 removed during initial mating stage
+           7 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for higher axes
+           4 candidates examined
+           4 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There in an inversion center in the molecule
+     Residual                      Position
+   8.9110e-09 (    3.76535485,   -0.00000000,    0.00000000)
+There are 2 normal axes in the molecule
+     Residual  Order         Direction of the axis                         Supporting point
+  0 2.4814e-16 Inf (-1.00000000,-0.00000000, 0.00000000) (    3.76535485,   -0.00000000,    0.00000000)
+  1 8.9110e-09   2 ( 0.00000000, 1.00000000, 0.00000000) (    3.76535485,   -0.00000000,    0.00000000)
+There are no improper axes in the molecule
+There are 2 planes of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 1.7822e-08 ( 1.00000000, 0.00000000,-0.00000000)     3.76535485
+  1 1.4727e-15 ( 0.00000000, 1.00000000, 0.00000000)     0.00000000
+Molecule has the following symmetry elements: (i) (Cinf) (C2) 2*(sigma) 
+It seems to be the Dinfh point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           4 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           3 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+          24 candidates examined
+           8 removed early
+           0 removed during initial mating stage
+          13 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           3 accepted
+Looking for higher axes
+           4 candidates examined
+           4 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There in an inversion center in the molecule
+     Residual                      Position
+   2.3398e-08 (    3.62046431,   -0.44496512,   -0.16456032)
+There are 3 normal axes in the molecule
+     Residual  Order         Direction of the axis                         Supporting point
+  0 7.0063e-08   2 ( 0.98295057,-0.11847103, 0.14061579) (    3.62046431,   -0.44496512,   -0.16456032)
+  1 6.9939e-08   2 ( 0.17771242, 0.80837995,-0.56119528) (    3.62046431,   -0.44496512,   -0.16456032)
+  2 4.9136e-08   2 ( 0.04718560,-0.57661638,-0.81565132) (    3.62046431,   -0.44496512,   -0.16456032)
+There are no improper axes in the molecule
+There are 3 planes of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 5.3404e-09 ( 0.17771242, 0.80837996,-0.56119527)     0.37605106
+  1 3.2026e-09 ( 0.98295057,-0.11847103, 0.14061579)     3.58831314
+  2 7.2344e-08 ( 0.04718560,-0.57661638,-0.81565132)     0.56163178
+Molecule has the following symmetry elements: (i) 3*(C2) 3*(sigma) 
+It seems to be the D2h point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           5 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           2 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for higher axes
+           2 candidates examined
+           2 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There is a normal axis in the molecule
+     Residual  Order         Direction of the axis                         Supporting point
+  0 4.2596e-05   2 ( 0.96743072,-0.24970810, 0.04151706) (    3.81572145,   -0.44455190,    0.41027398)
+There are no improper axes in the molecule
+There are 2 planes of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 3.2411e-05 ( 0.23274886, 0.81297778,-0.53375565)     0.30771208
+  1 9.5898e-05 ( 0.09953644, 0.52604517, 0.84461173)     0.49248595
+Molecule has the following symmetry elements: (C2) 2*(sigma) 
+It seems to be the C2v point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           5 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           1 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           2 candidates examined
+           2 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Refinement of some symmetry elements was terminated before convergence was reached.
+Some symmetry elements may remain unidentified.
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There is a plane of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 1.1072e-07 ( 0.63790219,-0.20622452, 0.74199208)     2.71696503
+Molecule has the following symmetry elements: (sigma) 
+It seems to be the Cs point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There is a plane of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 9.2476e-05 ( 0.42960631,-0.10296332,-0.89712707)     1.30353363
+Molecule has the following symmetry elements: (sigma) 
+It seems to be the Cs point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           4 removed during initial mating stage
+           1 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           2 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           2 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           1 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for higher axes
+           4 candidates examined
+           4 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There is a normal axis in the molecule
+     Residual  Order         Direction of the axis                         Supporting point
+  0 6.5641e-09   2 (-0.82005415, 0.05140328, 0.56997271) (    3.73226436,   -0.31287389,    0.38720632)
+There are no improper axes in the molecule
+There are 2 planes of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 1.3390e-08 ( 0.45849238,-0.53701986, 0.70809209)     2.15341199
+  1 7.9247e-05 ( 0.34249287, 0.84199804, 0.41681882)     1.17623382
+Molecule has the following symmetry elements: (C2) 2*(sigma) 
+It seems to be the C2v point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There is a plane of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 7.0710e-05 ( 0.29383044, 0.85479778, 0.42776678)     0.77329201
+Molecule has the following symmetry elements: (sigma) 
+It seems to be the Cs point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There is a plane of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 9.3659e-05 ( 0.22325015, 0.81431055, 0.53577766)     0.88433086
+Molecule has the following symmetry elements: (sigma) 
+It seems to be the Cs point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           5 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           2 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for higher axes
+           2 candidates examined
+           2 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There is a normal axis in the molecule
+     Residual  Order         Direction of the axis                         Supporting point
+  0 1.4096e-07   2 ( 0.16185412, 0.56015197,-0.81242416) (    3.75202344,   -0.28827357,    0.37487884)
+There are no improper axes in the molecule
+There are 2 planes of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 2.2726e-09 ( 0.94399367,-0.32777625,-0.03793000)     3.62215644
+  1 1.7387e-07 ( 0.28753994, 0.76078412, 0.58183185)     1.07765908
+Molecule has the following symmetry elements: (C2) 2*(sigma) 
+It seems to be the C2v point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There is a plane of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 9.2937e-05 ( 0.30070920, 0.75725017, 0.57978114)     1.12811435
+Molecule has the following symmetry elements: (sigma) 
+It seems to be the Cs point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There is a plane of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 8.3696e-05 ( 0.30926150, 0.74464192, 0.59149449)     1.15462642
+Molecule has the following symmetry elements: (sigma) 
+It seems to be the Cs point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There is a plane of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 9.5606e-05 ( 0.31206152, 0.75984222, 0.57031343)     1.16345185
+Molecule has the following symmetry elements: (sigma) 
+It seems to be the Cs point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           5 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           2 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for higher axes
+           2 candidates examined
+           2 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There is a normal axis in the molecule
+     Residual  Order         Direction of the axis                         Supporting point
+  0 5.3248e-07   2 ( 0.94150845,-0.30783436,-0.13711252) (    3.78452104,   -0.10717368,    0.06108499)
+There are no improper axes in the molecule
+There are 2 planes of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 9.6797e-09 ( 0.02268052,-0.34806787, 0.93719494)     0.18038717
+  1 3.1012e-07 ( 0.33622517, 0.88548677, 0.32072702)     1.19714197
+Molecule has the following symmetry elements: (C2) 2*(sigma) 
+It seems to be the C2v point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There is a plane of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 9.2911e-05 ( 0.39232990, 0.83879036, 0.37750229)     1.61125674
+Molecule has the following symmetry elements: (sigma) 
+It seems to be the Cs point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           5 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           2 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for higher axes
+           2 candidates examined
+           2 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There is a normal axis in the molecule
+     Residual  Order         Direction of the axis                         Supporting point
+  0 5.3424e-08   2 (-0.91462243, 0.36492173, 0.17406305) (    3.86765512,   -0.00420394,    0.30305514)
+There are no improper axes in the molecule
+There are 2 planes of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 1.1393e-07 ( 0.00134646,-0.42776817, 0.90388748)     0.28093370
+  1 1.3368e-08 ( 0.40430682, 0.82695013, 0.39075501)     1.67866319
+Molecule has the following symmetry elements: (C2) 2*(sigma) 
+It seems to be the C2v point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           5 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           2 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for higher axes
+           2 candidates examined
+           2 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There is a normal axis in the molecule
+     Residual  Order         Direction of the axis                         Supporting point
+  0 5.0392e-08   2 ( 0.90128744,-0.38330193,-0.20189248) (    3.84765513,   -0.00531688,    0.31220584)
+There are no improper axes in the molecule
+There are 2 planes of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 1.1355e-08 ( 0.01102629,-0.44557879, 0.89517482)     0.32427326
+  1 4.8350e-08 ( 0.43308123, 0.80903596, 0.39736817)     1.78610634
+Molecule has the following symmetry elements: (C2) 2*(sigma) 
+It seems to be the C2v point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           5 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           1 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           2 candidates examined
+           2 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There is a plane of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 5.9523e-09 ( 0.19188702,-0.95173974, 0.23952211)     1.00699152
+Molecule has the following symmetry elements: (sigma) 
+It seems to be the Cs point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           4 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           2 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+          24 candidates examined
+           8 removed early
+           8 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           8 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           4 candidates examined
+           4 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are 2 planes of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 4.4039e-05 (-0.07644906,-0.61099771, 0.78793232)     0.34829139
+  1 3.4664e-06 ( 0.86071891,-0.43934369,-0.25717712)     3.54287144
+Molecule has the following symmetry elements: 2*(sigma) 
+These symmetry elements match no point group I know of. Sorry.
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           5 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           1 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           2 candidates examined
+           2 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There is a plane of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 4.3649e-05 ( 0.90679592,-0.35950003,-0.22018377)     3.46218986
+Molecule has the following symmetry elements: (sigma) 
+It seems to be the Cs point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There is a plane of symmetry in the molecule
+     Residual          Direction of the normal           Distance
+  0 9.9376e-05 ( 0.00494881,-0.75968335, 0.65027434)     0.59133628
+Molecule has the following symmetry elements: (sigma) 
+It seems to be the Cs point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Refinement of some symmetry elements was terminated before convergence was reached.
+Some symmetry elements may remain unidentified.
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Refinement of some symmetry elements was terminated before convergence was reached.
+Some symmetry elements may remain unidentified.
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           4 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           3 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           2 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           1 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           1 accepted
+Looking for higher axes
+           4 candidates examined
+           4 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There is a normal axis in the molecule
+     Residual  Order         Direction of the axis                         Supporting point
+  0 4.6362e-06   2 (-0.93294257, 0.07901293, 0.35124794) (    3.76776097,    0.41531863,    0.45892444)
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has the following symmetry elements: (C2) 
+It seems to be the C2 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group
+Looking for the inversion center
+           1 candidates examined
+           0 removed early
+           1 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the planes of symmetry
+           7 candidates examined
+           0 removed early
+           6 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for infinity axis
+           1 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           1 removed after unsuccessful optimization
+           0 accepted
+Looking for C2 axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for higher axes
+           0 candidates examined
+           0 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+Looking for the improper axes
+          24 candidates examined
+          24 removed early
+           0 removed during initial mating stage
+           0 removed as duplicates
+           0 removed because of the wrong transformation order
+           0 removed after unsuccessful optimization
+           0 accepted
+There is no inversion center in the molecule
+There are no normal axes in the molecule
+There are no improper axes in the molecule
+There are no planes of symmetry in the molecule
+Molecule has no symmetry elements
+It seems to be the C1 point group

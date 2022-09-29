@@ -1,0 +1,6 @@
+gfortran SiC2_CHIPR.f90 TEST_CHIPR.f
+
+or 
+
+ifort TEST_CHIPR.f SiC2_CHIPR.f90
+

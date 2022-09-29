@@ -1,0 +1,24 @@
+      PROGRAM C4
+      IMPLICIT NONE
+      DOUBLE PRECISION, DIMENSION(6) :: R 
+      DOUBLE PRECISION :: VC4
+  
+      R(1)=2.52360D+00
+  
+      R(2)=4.95811D+00
+
+      R(3)=7.48172D+00
+
+      R(4)=2.52360D+00
+
+      R(5)=4.95811D+00 
+
+      R(6)=2.43451D+00
+
+      CALL POTC4(R,VC4)
+ 
+C      WRITE(*,*)"COORDINATES (IN BOHR):", R
+
+      WRITE(*,*)"ENERGY (IN HARTRE):", VC4
+
+      END PROGRAM C4
